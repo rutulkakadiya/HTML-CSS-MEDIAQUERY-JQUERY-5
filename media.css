@@ -1,0 +1,1089 @@
+@media(min-width: 721px) and (max-width: 1200px){
+    header{
+        width: 1200px;
+    }
+    header .logo{
+        width: 10%;
+    }
+    header .logo img{
+        width: 90%;
+        margin-left: 5%;
+    }
+    header nav{
+        width: 50%;
+    }
+    header .h1{
+        width: 30%;
+        margin-inline: 5px;
+    }
+    #ss{
+        margin-left: 5%;
+    }
+    .main1{
+        width: 1200px;
+    }
+    .main1 #a2{
+        margin-inline: 10px;
+    }
+    .main2{
+        width: 1200px;
+    }
+    .main3{
+        width: 1200px;
+    }
+    .main4{
+        width: 90%;
+        margin-left: 5%;
+    }
+    .s2 h3{
+        font-size: 13px;
+    }
+    .s2 p{
+        font-size: 12px;
+    }
+    .main5{
+        width: 1200px;
+    }
+    .main6{
+        width: 1200px;
+        margin-left: 0%;
+        border: 1px solid black;
+    }
+    .main6 .s3{
+        width: 15%;
+    }
+    .main7{
+        width: 1200px;
+    }
+    .menu{
+        left: 90%;
+    }
+    .menu1{
+        left: 85%;
+    }
+    .menu2{
+        top: 75%;
+        left: 95.5%;
+    }
+    
+    .main7{
+        width: 1200px;
+    }
+    .main8{
+        width: 1200px;
+    }
+    .main10{
+        width: 1200px;
+    }
+    .main11{
+        width: 1200px;
+    }   
+    .main12{
+        width: 1200px;
+    }
+    .main13{
+        width: 1200px;
+    }
+    .main14{
+        width: 1100px;
+        margin-left: 50px;
+    }
+    .main14 .s13{
+        height: 90%;
+    }       
+    .main15{
+        width: 1200px;
+    }
+    .main16{
+        width: 1200px;
+    }
+    .main16 .s16{
+        height: 350px;
+        width: 95%;
+        margin-left: 2%;
+    }
+    .main16 .s16 .bt2{
+        top: 70%;
+    }
+    .main17{
+        width: 1200px;
+    }
+    .main18{
+        width: 1150px;
+        margin-left: 25px;
+    }
+    .main19{
+        width: 1150px;
+        margin-left: 25px;
+    }
+    .main20{
+        width: 1150px;
+        margin-left: 25px;
+    }
+    .main21{
+        width: 1200px;
+    }
+    .main22{
+        width: 1150px;
+        margin-left: 25px;
+    }
+    .main23{
+        width: 1150px;
+        margin-left: 25px;
+    }
+    .main24{
+        width: 1200px;
+    }
+    .main25{
+        width: 1150px;
+        margin-left: 25px;
+    }
+    .main25 .s32 .bt8 i{
+        left: 20%;
+    }
+    .main25 .s33 .bt9 i{
+        left: 20%;
+    }
+    .main26{
+        width: 1200px;
+        position: relative;
+        top: 500px;
+    }
+    .main27{
+        width: 1150px;
+        margin-left: 25px;
+    }
+    .main28{
+        width: 1200px;
+    }
+    footer{
+        width: 1200px;
+    }
+}
+
+@media(min-width: 481px) and (max-width: 720px){
+    header{
+        width: 720px;
+    }
+    header .logo{
+        width: 30%;
+    }
+    header .logo img{
+        width: 90%;
+        margin-left: 5%;
+    }
+    header nav{
+        width: 50%;
+    }
+    header .h1{
+        width: 30%;
+        margin-inline: 5px;
+    }
+    header nav{
+        display: none;
+    }
+    header .h1 img{
+        margin-top: 50%;
+    }
+    
+    header .h1 i{
+        margin-top: 50%;
+    }
+    #icon2{
+        display: block;
+        position: relative;
+        top: 25px;
+    }
+    header .logo img{
+        margin-top: -8%;
+        margin-left: 5%;
+    }
+    header .h2{
+        position: relative;
+        left: 40%;
+        width: 30%;
+    }
+    header .h1{
+        margin-inline: 0px;
+        width: 80%;
+    }
+    header .h1 a{
+        display: none;
+    }
+    #icon1{
+        display: none;
+    }
+    .main1{
+        display: none;
+    }
+    .main2{
+        height: 450px;
+        width: 720px;
+    }
+    .main2 .next{
+        display: none;
+    }
+    .main2 .prev{
+        display: none;
+    }
+    .main3{
+        width: 720px;
+    }
+    .main3 h1{
+        font-size: 35px;
+    }
+    .main3 a{
+        font-size: 16px;
+    }
+    
+    .main4{
+        width: 90%;
+        margin-left: 5%;
+    }
+    .s2 h3{
+        font-size: 13px;
+    }
+    .s2 p{
+        font-size: 12px;
+    }
+    #div1{
+        height: 300px;
+        width: 100%;
+        display: block;
+    }
+    #div2{
+        display: none;
+    }
+    .main5{
+        width: 720px;
+    }
+    .main5 h1{
+        font-size: 35px;
+    }
+    .main5 a{
+        font-size: 16px;
+    }
+    .main6{
+        width: 720px;
+        margin-left: 0%;
+        position: relative;
+        top: 100px;
+    }
+    .main6 .s3{
+        width: 32%;
+    }
+    .main6 .s4{
+        height: 75%;
+    }
+    .main6 .s5{
+        height: 25%;
+    }
+    .main6 .s3 .s5 h3{
+        margin-top: 5%;
+    }
+    #s3{
+        display: none;
+    }
+    .main7{
+        width: 720px;
+    }
+    .main7 h1{
+        font-size: 35px;
+    }
+    .main7 a{
+        font-size: 16px;
+    }
+    .menu{
+        top: 80%;
+        left: 80%;
+    }
+    .menu1{
+        top: 75%;
+        left: 70%;
+    }
+    .menu2{
+        top: 75%;
+        left: 91%;
+    }
+    
+    .main8{
+        width: 720px;
+    }
+    .main8 .s6{
+        width: 49%;
+    }
+    #s6{
+        display: none;
+    }
+    .next1{
+        left: 95%;
+    }
+    .main10{
+        width: 720px;
+    }
+    .main10 h1{
+        font-size: 35px;
+    }
+    .main10 a{
+        font-size: 16px;
+    }
+    .main11{
+        width: 720px;
+    }
+    .main11 .s9{
+        height: 300px;
+        width: 100%;
+    }
+    .main11 h3{
+        font-size: 12px;
+    }
+    .main11 a{
+        font-size: 16px;
+    }  
+    .main12{
+        position: relative;
+        top: 250px;
+        height: 400px;
+        width: 700px;
+        background-size: cover;
+    }
+    .main12 .bt1{
+        position: relative;
+        top: 310px;
+    }
+    .main13{
+        width: 720px;
+    }
+    .main13 h1{
+        font-size: 35px;
+    }
+    .main13 a{
+        font-size: 16px;
+    } 
+    .main14{
+        height: 800px;
+        width: 700px;
+        margin-left: 50px;
+        display: flex;
+        flex-wrap: wrap;
+        margin-left: 10px;
+    }
+    .main14 .s13{
+        height: 50%;
+        width: 49%;
+    }
+    .main15{
+        width: 720px;
+    }
+    .main15 h1{
+        font-size: 35px;
+    }
+    .main15 a{
+        font-size: 16px;
+    }
+    .main16{
+        width: 720px;
+        top: 200px;
+    }
+    .main16 .s16{
+        height: 250px;
+        width: 95%;
+        margin-left: 2%;
+    }
+    .main16 .s16 .s17 #button{
+        position: relative;
+        left: 0%;
+        margin-top: 280px;
+    }
+    .main16 .s16 .s17{
+        width: 40%;
+    }
+    
+    .main16 .s16 .s18{
+        width: 40%;
+    }
+    .main16 .s16 .s18 #button1{
+        position: relative;
+        left: 0%;
+        margin-top: 280px;
+    }
+    .main16 .s16 .s19{
+        display: none;
+    }
+    .main17{
+        position: relative;
+        top: 50px;
+        width: 720px;
+    }
+    .main17 h1{
+        font-size: 35px;
+    }
+    .main17 a{
+        font-size: 16px;
+    }
+    .main18{
+        height: 300px;
+        width: 700px;
+        margin-left: 10px;
+        position: relative;
+        top: 50px;
+    }
+    .main18 .s20{
+        height: 250px;
+    }
+    .main18 .s20 h3{
+        font-size: 20px;
+        line-height: 50px;
+    }
+    .main19{
+        position: relative;
+        top: 100px;
+        width: 700px;
+        margin-left: 10px;
+        background-image: url(Image/starburst-wo-mobile.jpg);
+    }
+    .main19 .bt3{
+        margin-top: 40%;
+    }
+    .main20{
+        height: 250px;
+        width: 700px;
+        margin-left: 10px;
+        position: relative;
+        top: 150px;
+    }
+    .main20 .bt4{
+        position: relative;
+        top: -130px;
+    }
+    .main21{
+        position: relative;
+        top: 250px;
+        width: 720px;
+    }
+    .main21 h1{
+        font-size: 35px;
+    }
+    .main21 a{
+        font-size: 16px;
+    }
+    .main22{
+        height: 250px;
+        width: 700px;
+        margin-left: 10px;
+        position: relative;
+        top: 250px;
+    }
+    .bt5{
+        height: 35px;
+        width: 120px;
+        position: relative;
+        top: 150px;
+    }
+    .main23{
+        width: 700px;
+        margin-left: 10px;
+        display: flex;
+        flex-wrap: wrap;
+        position: relative;
+        top: 300px;
+    }
+    .main23 .s28{
+        width: 100%;
+        border-radius: 30px;
+    }
+    .main23 .s29{
+        width: 100%;
+        margin-top: 5%;
+        border-radius: 30px;
+    }
+    .s29 .bt6{
+        top: 180px;
+    }
+    .s29 .bt7{
+        top: 180px;
+    }
+    .main24{
+        position: relative;
+        top: 750px;
+        width: 720px;
+    }
+    .main24 h1{
+        font-size: 35px;
+    }
+    .main24 a{
+        font-size: 16px;
+    }
+    .main25{
+        width: 700px;
+        margin-left: 10px;
+        position: relative;
+        top: 750px;
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .main25 .s30{
+        width: 100%;
+    }
+    .main25 .s31{
+        margin-top: 5%;
+        width: 100%;
+    }
+    .main26{
+        position: relative;
+        top: 950px;
+        width: 720px;
+    }
+    .main26 h1{
+        font-size: 35px;
+    }
+    .main26 a{
+        font-size: 16px;
+    }
+    .main27{
+        width: 700px;
+        margin-left: 10px;
+        position: relative;
+        top: 950px;
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .main27 .s34{
+        width: 45%;
+        margin-top: 5%;
+    }
+    .main28{
+        position: relative;
+        top: 1300px;
+        width: 720px;
+    }
+    .main28 h1{
+        font-size: 35px;
+    }
+    .main28 a{
+        font-size: 16px;
+    }
+    .main29{
+        width: 700px;
+        margin-left: 10px;
+        position: relative;
+        top: 1350px;
+    }
+    footer{
+        width: 720px;
+        position: relative;
+        top: 1400px;
+    }
+    .f1{
+        width: 90%;
+        margin-left: 5%;
+    }
+}
+
+@media(min-width: 0px) and (max-width: 480px){
+    header{
+        width: 480px;
+    }
+    
+    header .logo{
+        width: 50%;
+    }
+    header .logo img{
+        width: 90%;
+        position: relative;
+        left: 35%;
+    }
+    header nav{
+        width: 50%;
+    }
+    header .h1{
+        width: 30%;
+        margin-inline: 5px;
+        position: relative;
+        left: 50%;
+    }
+    header nav{
+        display: none;
+    }
+    header .h1 img{
+        margin-top: 50%;
+        margin-left: 0%;
+    }
+    
+    header .h1 i{
+        margin-top: 50%;
+    }
+    #icon2{
+        display: block;
+        position: relative;
+        top: 25px;
+    }
+    header .logo img{
+        margin-top: -8%;
+        margin-left: 25%;
+    }
+    header .h2{
+        position: relative;
+        left: 35%;
+        width: 30%;
+        display: none;
+    }
+    #icon1{
+        display: none;
+    }
+    
+    header .h1{
+        margin-inline: 0px;
+        width: 80%;
+        display: none;
+    }
+    .main1{
+        display: none;
+    }
+    .main2{
+        height: 300px;
+        width: 480px;
+    }
+    .main2 .next{
+        display: none;
+    }
+    .main2 .prev{
+        display: none;
+    }
+    .main3{
+        margin-top: -50px;
+        width: 480px;
+    }
+    .main3 h1{
+        font-size: 30px;
+    }
+    .main3 a{
+        font-size: 15px;
+    }
+    .main5{
+        width: 480px;
+    }
+    .main5 h1{
+        font-size: 30px;
+    }
+    .main5 a{
+        font-size: 15px;
+    }
+    .main6{
+        height: 500px;
+        width: 480px;
+        margin-left: 0%;
+        position: relative;
+        top: 100px;
+    }
+    .main6 .s3{
+        height: 200px;
+        width: 32%;
+    }
+    .main6 .s4{
+        height: 75%;
+    }
+    .main6 .s5{
+        height: 25%;
+    }
+    .main6 .s3 .s5 h3{
+        font-size: 15px;
+        margin-top: 2%;
+    }
+    .main6 .s3 .s5 p{
+        margin-top: 3%;
+        font-size: 13px;
+    }
+    #s3{
+        display: none;
+    }
+    .main7{
+        
+        position: relative;
+        top: 30px;
+        width: 480px;
+    }
+    .main7 h1{
+        font-size: 30px;
+    }
+    .main7 a{
+        font-size: 15px;
+    }
+    .menu{
+        height: 70px;
+        width: 70px;
+        top: 60%;
+        left: 50%;
+        display: none;
+    }
+    .menu1{
+        height: 15px;
+        width: 120px;
+        font-size: 10px;
+        top: 75%;
+        left: 70%;
+        display: none;
+    }
+    .menu2{
+        top: 75%;
+        left: 90%;
+        display: none;
+    }
+    .main8{
+        width: 450px;
+        position: relative;
+        top: -30px;
+    }
+    .main8 .s6{
+        width: 480px;
+    }
+    #s7{
+        display: none;
+    }
+    #s6{
+        display: none;
+    }
+    .next1{
+        position: relative;
+        top: -55%;
+        left: 90%;
+    }
+    
+    .main10{
+        position: relative;
+        top: 0px;
+        width: 480px;
+    }
+    .main10 h1{
+        font-size: 25px;
+    }
+    .main10 a{
+        width: 90%;
+        font-size: 12px;
+    }
+    .main11{
+        width: 480px;
+        position: relative;
+        top: -50px;
+    }
+    .main11 .s9{
+        height: 250px;
+        width: 100%;
+        margin-left: 0%;
+    }
+    
+    .main11 h3{
+        font-size: 12px;
+    }
+    .main11 a{
+        font-size: 12px;
+    }   
+    .main12{
+        position: relative;
+        top: -100px;
+        height: 300px;
+        width: 450px;
+        background-size: cover;
+    }
+    .main12 .bt1{
+        position: relative;
+        top: 230px;
+    }
+    .main13{
+        position: relative;
+        top: -150px;
+        width: 480px;
+    }
+    .main13 h1{
+        font-size: 25px;
+    }
+    .main13 a{
+        width: 90%;
+        font-size: 12px;
+    }
+    .main14{
+        height: 850px;
+        width: 420px;
+        margin-left: 50px;
+        display: flex;
+        flex-wrap: wrap;
+        margin-left: 30px;
+        position: relative;
+        top: -200px;
+    }
+    .main14 .s13{
+        height: 30%;
+        width: 70%;
+        margin-left: 15%;
+        margin-top: 5%;
+    }
+    .main15{
+        position: relative;
+        top: 0px;
+        width: 480px;
+    }
+    .main15 h1{
+        font-size: 25px;
+    }
+    .main15 a{
+        width: 90%;
+        font-size: 12px;
+    }
+    .main16{
+        height: 300px;
+        width: 480px;
+        top: -30px;
+    }
+    .main16 .s16{
+        height: 250px;
+        width: 50%;
+        margin-left: 25%;
+    }
+    .main16 .s16 .s17 #button{
+        height: 35px;
+        width: 120px;
+        position: relative;
+        left: 3%;
+        margin-top: 190px;
+    }
+    .main16 .s16 .s17{
+        width: 100%;
+    }
+    
+    .main16 .s16 .s18{
+        width: 40%;
+        display: none;
+    }
+    .main16 .s16 .s19{
+        display: none;
+    }
+    .main17{
+        position: relative;
+        top: -150px;
+        width: 480px;
+    }
+    .main17 h1{
+        font-size: 25px;
+    }
+    .main17 a{
+        width: 90%;
+        font-size: 12px;
+    }
+    .main18{
+        height: 200px;
+        width: 450px;
+        margin-left: 15px;
+        position: relative;
+        top: -150px;
+    }
+    .main18 .s20{
+        height: 180px;
+    }
+    .main18 .s20 .s21 p{
+        font-size: 20px;
+    }
+    .main18 .s20 h3{
+        font-size: 16px;
+        line-height: 30px;
+    }
+    .main19{
+        position: relative;
+        top: -100px;
+        width: 450px;
+        margin-left: 15px;
+        background-image: url(Image/starburst-wo-mobile.jpg);
+    }
+    .main19 .bt3{
+        margin-top: 65%;
+    }
+    .main20{
+        height: 170px;
+        width: 450px;
+        margin-left: 15px;
+        position: relative;
+        top: -50px;
+    }
+    .main20 .bt4{
+        position: relative;
+        top: -90px;
+    }
+    .main21{
+        position: relative;
+        top: 0px;
+        width: 480px;
+    }
+    .main21 h1{
+        font-size: 25px;
+    }
+    .main21 a{
+        width: 90%;
+        font-size: 12px;
+    }
+    .main22{
+        height: 250px;
+        width: 450px;
+        margin-left: 15px;
+        position: relative;
+        top: 0px;
+    }
+    .main22 .s24{
+        width: 45%;
+    }
+    .bt5{
+        height: 35px;
+        width: 120px;
+        position: relative;
+        top: 150px;
+    }
+    #s24{
+        display: none;
+    }
+    
+    .main23{
+        height: 300px;
+        width: 450px;
+        margin-left: 15px;
+        display: flex;
+        flex-wrap: wrap;
+        position: relative;
+        top: 50px;
+    }
+    .main23 .s28{
+        width: 100%;
+        border-radius: 30px;
+    }
+    .main23 .s29{
+        width: 100%;
+        margin-top: 5%;
+        border-radius: 30px;
+    }
+    .s29 .bt6{
+        height: 35px;
+        top: 150px;
+    }
+    .s29 .bt7{
+        height: 35px;
+        top: 150px;
+    }
+    .main24{
+        position: relative;
+        top: 350px;
+        width: 480px;
+    }
+    .main24 h1{
+        font-size: 25px;
+    }
+    .main24 a{
+        width: 90%;
+        font-size: 12px;
+    }
+    .main25{
+        width: 450px;
+        margin-left: 15px;
+        position: relative;
+        top: 350px;
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .main25 .s30{
+        height: 120px;
+        width: 100%;
+    }
+    .main25 .s30 .s32 h1{
+        font-size: 25px;
+        margin-top: 5%;
+    }
+    
+    .main25 .s31{
+        height: 120px;
+        width: 100%;
+        margin-top: 5%;
+    }
+    .main25 .s31 .s33 h1{
+        font-size: 25px;
+        margin-top: 5%;
+    }
+    
+    .main25 .s32 .bt8 i{
+        left: 0%;
+    }
+    .main25 .s33 .bt9 i{
+        left: 0%;
+    }
+    .main26{
+        position: relative;
+        top: 400px;
+        width: 480px;
+    }
+    .main26 h1{
+        font-size: 25px;
+    }
+    .main26 a{
+        width: 90%;
+        font-size: 12px;
+    }
+    
+    .main27{
+        height: 300px;
+        width: 450px;
+        margin-left: 15px;
+        position: relative;
+        top: 380px;
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .main27 .s34{
+        width: 48%;
+        margin-top: 5%;
+    }
+    .main28{
+        position: relative;
+        top: 650px;
+        width: 480px;
+    }
+    .main28 h1{
+        font-size: 25px;
+    }
+    .main28 a{
+        width: 90%;
+        font-size: 12px;
+    }
+    .main29{
+        width: 450px;
+        margin-left: 15px;
+        position: relative;
+        top: 650px;
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .main29 .s37{
+        width: 100%;
+    }
+    .main29 .s38{
+        width: 100%;
+        margin-top: 5%;
+    }
+    .main29 .s39{
+        width: 100%;
+        margin-top: 5%;
+    }
+    
+    footer{
+        height: 1110px;
+        width: 480px;
+        position: relative;
+        top: 1000px;
+    }
+    .f1{
+        height: 350px;
+        width: 90%;
+        margin-left: 5%;
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .f1 .f2{
+        width: 100%;
+    }
+}
